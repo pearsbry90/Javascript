@@ -20,8 +20,7 @@ switch (day) {
         console.log("I'm not sure that's a day of the week... ")
 }
 
-// Ternaries
-// Tests a true/false outcome similarly to an if/else
+// Ternaries: testing a true/false outcome similarly to an if/else
 // Very concise, often one line only
 
 // Has specific syntax versus keywords
